@@ -1,0 +1,34 @@
+{
+  "quiz": [
+    {
+      "id": "q1",
+      "question": "Quelle est la particularité du sphénodon, un reptile de Nouvelle Zélande ?",
+      "options": [
+        "Il a trois pattes arrières",
+        "Il a un troisième oeil",
+        "Il peut planner plus de 10 secondes"
+      ],
+      "answer": "Il a un troisième oeil"
+    },
+    {
+      "id": "q2",
+      "question": "De quelle nationalité est Lou Bega qui connut un grand succès avec Mambo Number 5 en 1999 ?",
+      "options": [
+        "Allemande",
+        "Anglaise",
+        "Espagnole"
+      ],
+      "answer": "Allemande"
+    },
+    {
+      "id": "q3",
+      "question": "Que craint un coulrophobe ?",
+      "options": [
+        "une couleur",
+        "un clown",
+        "une couleuvre"
+      ],
+      "answer": "un clown"
+    }
+  ]
+}
